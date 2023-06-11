@@ -86,7 +86,7 @@ Returns a classifier instance from the JSON representation. Use this with the JS
 
 (The MIT License)
 
-Copyright (c) by Tolga Tezel <tolgatezel11@gmail.com>
+Copyright (c) by Marcos Alves <mmmlves@gmail.com> - based on the Tolga Tezel <tolgatezel11@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
