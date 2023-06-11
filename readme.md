@@ -14,7 +14,7 @@ You can use this for categorizing any text content into any arbitrary set of **c
 ## Installing
 
 ```
-npm install bayes
+npm install mmmlves/bayes
 ```
 
 ## Usage
